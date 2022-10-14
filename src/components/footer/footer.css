@@ -1,0 +1,50 @@
+.footer-container{
+    background: #000;
+    color: #EEEEEE;
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+}
+
+.footer-logo{
+    position: absolute;
+    width: 145px;
+    height: 62px;
+    top: 88.79%;
+    left: 5.89%;
+}
+.pageLink{
+    display: flex;
+    margin-right: 240px;
+    margin-left: auto;
+}
+.pageLink div{
+    margin-right: 36px;
+    width: 70px;
+    height: 24px;
+}
+.socialLink{
+    margin-right: 25px;
+    margin-top: 27px;
+}
+.socialLink h4{
+    width: 99px;
+    height: 25px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-bottom: 2px;
+}
+.icon{
+    display: flex;
+}
+.icon img{
+    background:#CE992F;
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 400px;
+}
